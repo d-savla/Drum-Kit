@@ -11,6 +11,10 @@ h1 {
 
 }
 
+div {
+  margin-bottom: 50px;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
